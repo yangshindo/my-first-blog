@@ -1,5 +1,5 @@
 h1 a, h2 a {
-     color: #C25100;
+     color: #6bb482;
 }
 
 body {
@@ -7,12 +7,12 @@ body {
 }
 
 h1 a, h2 a {
-    color: #C25100;
-    font-family: 'Lobster';
+    color: #6bb482;
+    font-family: 'Verdana';
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #6bb482;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
