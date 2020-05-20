@@ -6,6 +6,7 @@ from django.shortcuts import redirect
 from django.http import HttpResponseRedirect
 from django.urls import reverse_lazy
 from django.views.generic import TemplateView
+from .forms import PostForm
 from django.views.generic import DetailView
 
 def post_list(request):
